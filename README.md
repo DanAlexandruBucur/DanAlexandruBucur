@@ -55,10 +55,6 @@ A modern MP3 player application built with **Kotlin** and **Jetpack Compose**. F
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanAlexandruBucur&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DanAlexandruBucur&theme=tokyonight&hide_border=true" alt="DanAlexandruBucur's streak"/>
-</div>
-
 ## 🎓 Education & Experience
 
 **🏫 ULBS (Lucian Blaga University of Sibiu)**
@@ -73,8 +69,8 @@ A modern MP3 player application built with **Kotlin** and **Jetpack Compose**. F
 - 🔍 Specialized in test automation and quality assurance methodologies
 
 ## 🏆 Achievements & Certifications
-
-- 🥇 **ISTQB Foundation Level 4.0** - International Software Testing Qualifications Board [![ISTQB Foundation Level 4.0](https://img.shields.io/badge/ISTQB-Foundation%20Level%204.0-blue?style=for-the-badge&logo=checkmarx&logoColor=white)](https://www.credly.com/badges/8f30e965-389d-4bac-a799-0b92cf224df9/linked_in_profile)
+[![ISTQB Foundation Level 4.0](https://img.shields.io/badge/ISTQB-Foundation%20Level%204.0-blue?style=for-the-badge&logo=checkmarx&logoColor=white)](https://www.credly.com/badges/8f30e965-389d-4bac-a799-0b92cf224df9/linked_in_profile)
+- 🥇 **ISTQB Foundation Level 4.0** - International Software Testing Qualifications Board
 - 🎓 **Computer Engineering Student** - ULBS
 - 💼 **Professional Software Tester** - Bertrandt AG
 
